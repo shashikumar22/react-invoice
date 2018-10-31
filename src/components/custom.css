@@ -1,0 +1,62 @@
+.container {
+  margin: 0 auto;
+  margin: 35px;
+  padding: 40px;
+  width: 750px;
+  height: auto;
+}
+caption {
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+table {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 740px;
+}
+td,
+tr,
+th {
+  padding: 12px;
+  border: 1px solid #333;
+  width: 185px;
+}
+th {
+  background-color: #f0f0f0;
+}
+h4,
+p {
+  margin: 0px;
+}
+
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.deleteButton {
+  background-color: #f44336;
+}
+
+.userInfo {
+  background-color: white;
+  border: 1px solid black;
+  padding: 25px;
+  margin: 5px;
+}
+
+.editInvoice {
+  background-color: rgb(71, 122, 216);
+  color: white;
+  padding: 2px;
+  margin: 5px;
+}
